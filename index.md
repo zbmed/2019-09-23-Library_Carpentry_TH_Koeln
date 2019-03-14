@@ -194,6 +194,12 @@ Display the contact email address set in the configuration file.
   </a>
 </p>
 
+<p>
+  <a href="https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php">
+    <img src="https://www.th-koeln.de/img/logo.svg" alt="TH Köln" height="100"/>
+  </a>
+</p>
+
 <hr/>
 
 {% comment %} 
