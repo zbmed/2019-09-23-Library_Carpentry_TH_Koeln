@@ -187,7 +187,7 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-Feel free to also have a look at ZBIWs announcement reagarding the workshop: [https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php](https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php)
+Feel free to also have a look at ZBIW's announcement reagarding the workshop: [https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php](https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php)
 
 <p>
   <a href="https://www.zbmed.de/">
