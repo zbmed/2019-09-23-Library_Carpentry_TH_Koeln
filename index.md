@@ -7,7 +7,7 @@ address: "Raum A3.252, Technische Hochschule Köln, Claudiusstraße 1, 50678 Kö
 country: "DE"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "50.919450,6.966870"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Apr 02-03, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "May 15-16, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00 - 17:00 | 9:00 - 16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-05-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-05-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -186,8 +186,6 @@ Display the contact email address set in the configuration file.
   {% endif %}
   for more information.
 </p>
-
-Feel free to also have a look at ZBIW's announcement reagarding the workshop: [https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php](https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php)
 
 <p>
   <a href="https://www.zbmed.de/">
